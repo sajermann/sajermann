@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ### Node | React | React Native
 
-Sou iniciante na área de tecnologia, cursando graduação em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor, graduação em Análise e Desenvolvimento de Sistemas.
 
-Experiência com programação, onde já atuei em projetos básicos que envolvem salvar e carregar tabelas em SQL Server, o mesmo foi executado na tecnologia .Net, entretanto, tenho bastante afinididade com javascript onde estou estudando Node, React e React Native.
+Experiência com programação: C#, SQL Server, NodeJs, React, React Native, Bootstrap, MaterializeCss, MaterialUi.
 
 Visão analítica do contexto, recomendando ações e soluções com foco em melhorias, otimização de tarefas e redução de custos. Perfil facilitador, com facilidade de adaptação às necessidades do negócio.
 
