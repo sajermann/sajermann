@@ -28,7 +28,7 @@ Experiência com programação: C#, SQL Server, NodeJs, React, React Native, Boo
 Visão analítica do contexto, recomendando ações e soluções com foco em melhorias, otimização de tarefas e redução de custos. Perfil facilitador, com facilidade de adaptação às necessidades do negócio.
 
 - 🔭 Trabalhando atualmente na versão 3 do Dashboard Faturamento.
-- 🌱 Atualmente estudando Node, React e React Native.
+- 🌱 Atualmente estudando .Net, Node, React e React Native.
 - :iphone: (11)97592-9454
 - 💬 contato@sajermann.com
 - :briefcase: linkedin.com/in/devbrunosajermann
