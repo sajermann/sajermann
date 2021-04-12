@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sajermann&show_icons=true&theme=radical)
 
-### Node | React | React Native | .Net
+### Node | React | React Native | .Net | Angular
 
 Desenvolvedor, graduação em Análise e Desenvolvimento de Sistemas.
 
@@ -28,7 +28,7 @@ Experiência com programação: C#, SQL Server, NodeJs, React, React Native, Boo
 Visão analítica do contexto, recomendando ações e soluções com foco em melhorias, otimização de tarefas e redução de custos. Perfil facilitador, com facilidade de adaptação às necessidades do negócio.
 
 - 🔭 Trabalhando atualmente na versão 3 do Dashboard Faturamento.
-- 🌱 Atualmente estudando .Net, Node, React e React Native.
+- 🌱 Atualmente estudando .Net, Node, React, React Native e Angular.
 - :iphone: (11)97592-9454
 - 💬 contato@sajermann.com
 - :briefcase: linkedin.com/in/devbrunosajermann
