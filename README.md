@@ -25,7 +25,7 @@ Desenvolvedor, graduação em Análise e Desenvolvimento de Sistemas.
 
 Experiência com programação: C#, SQL Server, NodeJs, React, React Native, Bootstrap, MaterializeCss, MaterialUi.
 
-Visão analítica do contexto, recomendando ações e soluções com foco em melhorias, otimização de tarefas e redução de custos. Perfil facilitador, com facilidade de adaptação às necessidades do negócio.
+Front-end Developer
 
 - 🔭 Trabalhando atualmente na versão 3 do Dashboard Faturamento.
 - 🌱 Atualmente estudando .Net, Node, React, React Native e Angular.
