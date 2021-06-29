@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sajermann&show_icons=true&theme=radical)
 
-### Node | React | React Native | .Net | Angular
+### Node | React | React Native | .Net
 
 Desenvolvedor, graduação em Análise e Desenvolvimento de Sistemas.
 
