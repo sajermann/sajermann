@@ -23,18 +23,16 @@ Here are some ideas to get you started:
 
 Desenvolvedor, graduação em Análise e Desenvolvimento de Sistemas.
 
-Experiência com programação: C#, SQL Server, NodeJs, React, React Native, Bootstrap, MaterializeCss, MaterialUi, Bootstrap.
+Já atuei com: C#, SQL Server, NodeJs, React, React Native, Bootstrap, MaterializeCss, MaterialUi, Bootstrap.
 
 Front-end Developer
 
-- 🔭 Trabalhando atualmente na versão 3 do Dashboard Faturamento.
-- 🌱 Atualmente estudando .Net, Node, React, React Native.
+- 🔭 Trabalhando: SajermannDashboard, SajermannPocketNewTestament 
+- 💭 Projetando: MySeriesAndMovies, ResVei, Imobi
+- 🌱 Estudando: .Net, Node, React, React Native.
 - :iphone: (11)97592-9454
 - 💬 contato@sajermann.com
 - :briefcase: linkedin.com/in/devbrunosajermann
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsajermann)](https://www.linkedin.com/in/devbrunosajermann) [![Linkedin Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/11975929454?text=sua%20mensagem)](https://wa.me/5511975929454?text=sua%20mensagem)
 
