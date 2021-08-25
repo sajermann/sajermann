@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sajermann&show_icons=true&theme=radical)
 
-### Node | React | React Native | .Net
+### Node | .Net | React | React Native
 
 Desenvolvedor, graduação em Análise e Desenvolvimento de Sistemas.
 
-Já atuei com: C#, SQL Server, NodeJs, React, React Native, Bootstrap, MaterializeCss, MaterialUi, Bootstrap.
+Já atuei com: C#, SQL Server, NodeJs, React, React Native (Com Expo), MaterialUi, MaterializeCss, Bootstrap.
 
 Front-end Developer
 
 - 🔭 Trabalhando: SajermannDashboard, SajermannPocketNewTestament 
 - 💭 Projetando: MySeriesAndMovies, ResVei, Imobi
-- 🌱 Estudando: .Net, Node, React, React Native.
+- 🌱 Estudando: .Net, Node, React, React Native, Inglês
 - :iphone: (11)97592-9454
 - 💬 contato@sajermann.com
 - :briefcase: linkedin.com/in/devbrunosajermann
