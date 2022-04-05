@@ -31,7 +31,7 @@ Front-end Developer
 - 💭 Projetando: MySeriesAndMovies, ResVei, Imobi
 - 🌱 Estudando: .Net, Node, React, React Native, Inglês
 - :iphone: (11)97592-9454
-- 💬 contato@sajermann.com
+- 💬 sajermannbruno@gmail.com
 - :briefcase: linkedin.com/in/devbrunosajermann
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsajermann)](https://www.linkedin.com/in/devbrunosajermann) [![Linkedin Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/11975929454?text=sua%20mensagem)](https://wa.me/5511975929454?text=sua%20mensagem)
