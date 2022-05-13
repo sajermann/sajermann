@@ -36,4 +36,8 @@ Front-end Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsajermann)](https://www.linkedin.com/in/devbrunosajermann) [![Linkedin Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/11975929454?text=sua%20mensagem)](https://wa.me/5511975929454?text=sua%20mensagem)
 
+### Microsoft Certification
+
+![DP900](https://lh3.googleusercontent.com/pw/AM-JKLXHgFogVZqHQhqnwxL1iXhm_qG4yOUd5nnVt3teDbHN4MZWQV9zQR5Q_iN1A6PSFVs8wxxob_uk1AmVci0nRrPzA1qzBHkN3l5yfNDtMFZtAiT1VzQDpFN5KscSkP-zo6meVlc4KYXqir_S8NFudq79=s100-no?authuser=0)![98382](https://lh3.googleusercontent.com/pw/AM-JKLVyLlETdTz7aC128claRgu2Ls1lXhC6jwdgPhbOIfpukb9nQEs74bJB0hcVhcCzLqKkmI3GdstQFLJnOMVdNnsVVZ9fRJYqYIdtrYu1YS8jjtJxuoycEqL2zHyZ_fH5TLFpgwB4ajj-gsg4XPen2cqu=s100-no?authuser=0)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajermann&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
