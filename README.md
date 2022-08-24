@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Desenvolvedor, graduação em Análise e Desenvolvimento de Sistemas.
 
-Já atuei com: C#, SQL Server, NodeJs, React, React Native (Com Expo), MaterialUi, MaterializeCss, Bootstrap.
+Já atuei com: C#, SQL Server, NodeJs, React, React Native (Com Expo), MaterialUi, MaterializeCss, Bootstrap, TailwindCss.
 
 Front-end Developer
 
