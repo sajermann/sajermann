@@ -28,7 +28,7 @@ Já atuei com: C#, SQL Server, NodeJs, React, React Native (Com Expo), MaterialU
 Front-end Developer
 
 - 🔭 Trabalhando: SajermannDashboard, SajermannPocketNewTestament 
-- 💭 Projetando: MySeriesAndMovies, ResVei, Imobi
+- 💭 Projetando: Nada no momento
 - 🌱 Estudando: .Net, Node, React, React Native, Inglês
 - :iphone: +55 11 97592-9454
 - 💬 sajermannbruno@gmail.com
