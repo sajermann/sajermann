@@ -30,7 +30,6 @@ Front-end Developer
 - 🔭 Trabalhando: SajermannDashboard, SajermannPocketNewTestament 
 - 💭 Projetando: Nada no momento
 - 🌱 Estudando: .Net, Node, React, React Native, Inglês
-- :iphone: +55 11 97592-9454
 - 💬 sajermannbruno@gmail.com
 - :briefcase: [Linkedin](linkedin.com/in/devbrunosajermann)
 - 📚 [Credly](https://www.credly.com/users/bruno-sajermann.d21dd6c6/badges)
