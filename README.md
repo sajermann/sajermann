@@ -1,5 +1,3 @@
-
-
 <!--
 ### Hi there 👋
 **sajermann/sajermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +23,12 @@ Desenvolvedor, graduação em Análise e Desenvolvimento de Sistemas.
 
 Já atuei com: C#, SQL Server, NodeJs, React, React Native (Com Expo), MaterialUi, MaterializeCss, Bootstrap, TailwindCss.
 
+Foco principal hoje: React, Typescript, TailwindCss
+
 Front-end Developer
 
-- 🔭 Trabalhando: SajermannDashboard, SajermannPocketNewTestament 
-- 💭 Projetando: Nada no momento
+<!-- - 🔭 Trabalhando: SajermannDashboard, SajermannPocketNewTestament 
+- 💭 Projetando: Nada no momento -->
 - 🌱 Estudando: .Net, Node, React, React Native, Inglês
 - 💬 sajermannbruno@gmail.com
 - :briefcase: [Linkedin](linkedin.com/in/devbrunosajermann)
