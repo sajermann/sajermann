@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 # Bruno Sajermann
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sajermann&show_icons=true&theme=radical)
-
 ### Node | React | React Native
 
 Desenvolvedor, graduação em Análise e Desenvolvimento de Sistemas.
@@ -45,6 +43,4 @@ Front-end Developer
 |![98383](https://lh3.googleusercontent.com/pw/AM-JKLXBW1rzjdeypRP93ipZAgrkXKRYt_9HdlpgKroI1jvVXfKEZXCdh29BXWFVeUjcNOmx9HR0DtpAV8odHJd_1SGf1Qt1YyeFN3XFkG96DXcFmdxJ5ti1w30H-_exLf9WP7xTY_hH0ZOXONe3hE7RVjpQ=s100-no?authuser=0)|`98-383`|MTA: Introduction to Programming Using HTML and CSS|
 |![98361](https://lh3.googleusercontent.com/pw/AM-JKLVqXcMuGxtgGferuaQcupomzYK84LNcIY86Zlz8TyGv9G-8qTRauzxQRXJNoOWK8Gg96-szeeEAfr06STxP6H243SyT_Y-dL-xaXZhhRFtGtAcPck9cMI1GUkLib6ba9BH8C-ozuvHSyLyR8VleB9dC=s100-no?authuser=0)|`98-361`|MTA: Software Development Fundamentals|
 |![DP900](https://lh3.googleusercontent.com/pw/AM-JKLXHgFogVZqHQhqnwxL1iXhm_qG4yOUd5nnVt3teDbHN4MZWQV9zQR5Q_iN1A6PSFVs8wxxob_uk1AmVci0nRrPzA1qzBHkN3l5yfNDtMFZtAiT1VzQDpFN5KscSkP-zo6meVlc4KYXqir_S8NFudq79=s100-no?authuser=0)|`DP-900`|Microsoft Certified: Azure Data Fundamentals|
-|![98382](https://lh3.googleusercontent.com/pw/AM-JKLVyLlETdTz7aC128claRgu2Ls1lXhC6jwdgPhbOIfpukb9nQEs74bJB0hcVhcCzLqKkmI3GdstQFLJnOMVdNnsVVZ9fRJYqYIdtrYu1YS8jjtJxuoycEqL2zHyZ_fH5TLFpgwB4ajj-gsg4XPen2cqu=s100-no?authuser=0)|`98-382`|MTA: Introduction to Programming Using JavaScript|
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajermann&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+|![98382](https://lh3.googleusercontent.com/pw/AM-JKLVyLlETdTz7aC128claRgu2Ls1lXhC6jwdgPhbOIfpukb9nQEs74bJB0hcVhcCzLqKkmI3GdstQFLJnOMVdNnsVVZ9fRJYqYIdtrYu1YS8jjtJxuoycEqL2zHyZ_fH5TLFpgwB4ajj-gsg4XPen2cqu=s100-no?authuser=0)|`98-382`|MTA: Introduction to Programming Using JavaScript
