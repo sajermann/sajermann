@@ -27,12 +27,10 @@ Front-end Developer
 
 <!-- - 🔭 Trabalhando: SajermannDashboard, SajermannPocketNewTestament 
 - 💭 Projetando: Nada no momento -->
-- 🌱 Estudando: Node, React, React Native, Inglês
-- 💬 sajermannbruno@gmail.com
 - :briefcase: [Linkedin](linkedin.com/in/devbrunosajermann)
 - 📚 [Credly](https://www.credly.com/users/bruno-sajermann.d21dd6c6/badges)
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsajermann)](https://www.linkedin.com/in/devbrunosajermann) [![Linkedin Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/11975929454?text=sua%20mensagem)](https://wa.me/5511975929454?text=sua%20mensagem)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsajermann)](https://www.linkedin.com/in/devbrunosajermann)
 
 ### Microsoft Certifications
 |Badge|Code|Name|
